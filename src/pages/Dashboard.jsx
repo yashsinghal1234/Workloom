@@ -58,6 +58,16 @@ function Dashboard() {
         }
     }
 
+    const onLogout = async () => {
+        try {
+            await logoutUser()
+            setCurrentUser(null)
+            navigate('/auth', { replace: true })
+        } catch (error) {
+            console.error('Logout failed:', error)
+        }
+    }
+
     if (isLoading) {
         return (
             <div className="dashboard-shell">
