@@ -460,7 +460,7 @@ export default function FreelanceMarketplace() {
                         color: '#f0ede8',
                     }}
                 >
-                    free<span style={{ color: GREEN }}>lance</span>
+                    Work<span style={{ color: GREEN }}>loom</span>
                 </Link>
 
                 <div style={{ display: 'flex', gap: 24, alignItems: 'center' }}>
@@ -911,10 +911,10 @@ export default function FreelanceMarketplace() {
                         fontWeight: 700,
                     }}
                 >
-                    free<span style={{ color: GREEN }}>lance</span>
+                    work<span style={{ color: GREEN }}>loom</span>
                 </div>
                 <div style={{ fontSize: 12, color: '#333' }}>
-                    (c) 2026 Freelance Inc. - All rights reserved
+                    (c) 2026 Workloom - All rights reserved
                 </div>
                 <div style={{ display: 'flex', gap: 20 }}>
                     {['Privacy', 'Terms', 'Support'].map((label) => (

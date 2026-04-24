@@ -197,7 +197,7 @@ function Auth() {
 
                 <div className="auth-panel">
                     <Link className="auth-brand" to="/">
-                        Workloom
+                        Work<span style={{ color: '#1dbf73' }}>loom</span>
                     </Link>
                     <h2>{title}</h2>
                     <p className="auth-subtitle">{subtitle}</p>
