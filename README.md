@@ -145,31 +145,37 @@ EMAIL_PASS=your_smtp_password
 
 ## 🤝 Contributors
 
-<table>
+## 🤝 Contributors
+
+<table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="150">
       <a href="https://github.com/Aditya010305">
-        <img src="https://github.com/Aditya010305.png" width="100px;" style="border-radius:50%;"/><br />
-      </a>
-      <b>Aditya Pratap Singh</b>
+        <img src="https://github.com/Aditya010305.png" width="110px;" style="border-radius:50%;" alt="Aditya"/><br />
+        <sub><b>Aditya Pratap Singh</b></sub>
+      </a><br />
+      <sub>@Aditya010305</sub>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <a href="https://github.com/Ajeetshukla1">
-        <img src="https://github.com/Ajeetshukla1.png" width="100px;" style="border-radius:50%;"/><br />
-      </a>
-      <b>Ajeet Shukla</b>
+        <img src="https://github.com/Ajeetshukla1.png" width="110px;" style="border-radius:50%;" alt="Ajeet"/><br />
+        <sub><b>Ajeet Shukla</b></sub>
+      </a><br />
+      <sub>@Ajeetshukla1</sub>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <a href="https://github.com/yashsinghal1234">
-        <img src="https://github.com/yashsinghal1234.png" width="100px;" style="border-radius:50%;"/><br />
-      </a>
-      <b>Yash Singhal</b>
+        <img src="https://github.com/yashsinghal1234.png" width="110px;" style="border-radius:50%;" alt="Yash"/><br />
+        <sub><b>Yash Singhal</b></sub>
+      </a><br />
+      <sub>@yashsinghal1234</sub>
     </td>
-    <td align="center">
+    <td align="center" width="150">
       <a href="https://github.com/Nova-022005">
-        <img src="https://github.com/Nova-022005.png" width="100px;" style="border-radius:50%;"/><br />
-      </a>
-      <b>Saurav Singh</b>
+        <img src="https://github.com/Nova-022005.png" width="110px;" style="border-radius:50%;" alt="Saurav"/><br />
+        <sub><b>Saurav Singh</b></sub>
+      </a><br />
+      <sub>@Nova-022005</sub>
     </td>
   </tr>
 </table>
