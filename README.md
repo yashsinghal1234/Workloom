@@ -150,26 +150,26 @@ EMAIL_PASS=your_smtp_password
     <td align="center">
       <a href="https://github.com/Aditya010305">
         <img src="https://github.com/Aditya010305.png" width="100px;" style="border-radius:50%;"/><br />
-        <sub><b>Aditya Pratap Singh</b></sub>
       </a>
+      <b>Aditya Pratap Singh</b>
     </td>
     <td align="center">
       <a href="https://github.com/Ajeetshukla1">
         <img src="https://github.com/Ajeetshukla1.png" width="100px;" style="border-radius:50%;"/><br />
-        <sub><b>Ajeet Shukla</b></sub>
       </a>
+      <b>Ajeet Shukla</b>
     </td>
     <td align="center">
       <a href="https://github.com/yashsinghal1234">
         <img src="https://github.com/yashsinghal1234.png" width="100px;" style="border-radius:50%;"/><br />
-        <sub><b>Yash Singhal</b></sub>
       </a>
+      <b>Yash Singhal</b>
     </td>
     <td align="center">
       <a href="https://github.com/Nova-022005">
         <img src="https://github.com/Nova-022005.png" width="100px;" style="border-radius:50%;"/><br />
-        <sub><b>Saurav Singh</b></sub>
       </a>
+      <b>Saurav Singh</b>
     </td>
   </tr>
 </table>
