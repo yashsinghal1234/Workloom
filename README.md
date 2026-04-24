@@ -145,8 +145,6 @@ EMAIL_PASS=your_smtp_password
 
 ## 🤝 Contributors
 
-## 🤝 Contributors
-
 <table align="center">
   <tr>
     <td align="center" width="150">
